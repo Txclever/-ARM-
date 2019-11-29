@@ -22,7 +22,7 @@
   }
   
   .p-left ul {
-    margin-top: 50px;
+    margin-top: 41px;
   }
   
   .p-left li {
@@ -31,6 +31,17 @@
     color: #6f787c;
     text-align: center;
     font-size: 8px;
+  }
+  #p-left-o{
+    display: none;
+    text-align: center;
+  }
+  #p-left-o img{
+    width: 62.5%;
+    margin-left: 3px;
+  }
+  .p-left-t{
+    margin-top: 26px;
   }
   
   .p-left li p {
