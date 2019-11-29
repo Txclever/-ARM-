@@ -1,14 +1,16 @@
-*{
+* {
     padding: 0;
     margin: 0;
     text-decoration: none;
-}
-#center{
+  }
+  
+  #center {
     height: 100%;
     height: 7167px;
     /* background-color: black; */
-}
-#center .p-left{
+  }
+  
+  #center .p-left {
     width: 88px;
     height: 968px;
     position: fixed;
@@ -17,47 +19,55 @@
     /* background-color: blue; */
     border-right: 2px solid rgb(231, 229, 229);
     /* float: left; */
-}
-.p-left ul{
+  }
+  
+  .p-left ul {
     margin-top: 50px;
-}
-.p-left li{
+  }
+  
+  .p-left li {
     width: 90px;
     height: 85px;
     color: #6f787c;
     text-align: center;
     font-size: 8px;
-}
-.p-left li p{
+  }
+  
+  .p-left li p {
     margin-left: 4px;
     /* width: 100%; */
-}
-.lif{
+  }
+  
+  .lif {
     margin-top: 18px;
-}
-.p-left li img{
+  }
+  
+  .p-left li img {
     /* border-right: 120px solid transparent; */
     /* -webkit-filter: drop-shadow(30px 0 0 #ccc); */
     filter: grayscale(120%);
-}
-/* .p-left li:nth-child(1){
-    color: #11809f;
-} */
-#center .header{
-    width: 1813px;
+  }
+  
+  /* .p-left li:nth-child(1){
+      color: #11809f;
+  } */
+  #center .header {
+    width: 1493px;
     height: 706px;
     margin-left: 90px;
     /* background-color: black; */
     background-image: url("../img/arm-homepage-hero-ai-1920x706.jpg");
-    background-position: -54px 0;
+    background-position: -211px 0;
     /* color: #fff; */
-}
-.picture-one img{
-    width: 7.2%;
+  }
+  
+  .picture-one img {
+    width: 8.8%;
     margin-left: 70px;
     margin-top: 50px;
-}
-.word{
+  }
+  
+  .word {
     width: 1000px;
     height: 219px;
     /* background-color: black; */
@@ -65,33 +75,116 @@
     margin-top: 86px;
     color: #fff;
     /* font-family: 'Futura PT W01 Book'; */
-}
-.word .word-o{
+  }
+  
+  .word .word-o {
     font-size: 33px;
-}
-.word .word-two{
+  }
+  
+  .word .word-two {
     font-size: 65px;
-}
-.word .word-three{
+  }
+  
+  .word .word-three {
     font-size: 65px;
     margin-top: -20px;
     width: 895px;
     height: 100px;
     border-bottom: 3px solid orange;
     /* background-color: black; */
-}
-.word .word-four{
+  }
+  
+  .word .word-four {
     margin-top: 39px;
     font-size: 21px;
-}
-.learn{
+  }
+  
+  .learn {
     width: 207.64px;
     height: 44px;
     background-color: #ffc700;
     margin-top: 89px;
     border-radius: 40px;
     text-align: center;
-    line-height: 40px;
+    line-height: 42px;
     font-size: 19px;
     margin-left: 70px;
-}
+  }
+  
+  .main {
+    width: 1493px;
+    height: 5983px;
+    /* background-color: rgb(241, 241, 115); */
+    margin-left: 90px;
+  }
+  
+  .main .main-body {
+    width: 1170px;
+    height: 783px;
+    /* background-color: rgb(100, 253, 100); */
+    margin: 0 auto;
+    margin-top: 90px;
+  }
+  
+  .main-w-one p {
+    text-align: center;
+    font-size: 42px;
+    font-weight: 700;
+  }
+  
+  .main-w-two {
+    margin-top: 33px;
+  }
+  
+  .main-w-two p {
+    text-align: center;
+    font-size: 15px;
+    /* font-weight: 700; */
+    line-height: 26px;
+  }
+  
+  .main-w-three {
+    width: 1170px;
+    height: 555px;
+    /* background-color: rgb(245, 98, 98); */
+  }
+  
+  .three-left,
+  .three-right {
+    width: 585px;
+    height: 530px;
+    /* background-color: rgb(63, 63, 248); */
+    float: left;
+    text-align: center;
+  }
+  .three-left img,
+  .three-right img{
+    margin-top: 70px;
+  }
+  .left-w{
+    margin-top: 35px;
+    font-size: 20px;
+  }
+  .left-ww{
+    width: 455px;
+    height: 66px;
+    font-size: 25px;
+    margin-left: 58px;
+    font-weight: 300;
+    margin-top: 10px;
+  }
+  .left-www{
+    width: 455px;
+    height: 104px;
+    margin-left: 64px;
+    margin-top: 20px;
+    line-height: 30px;
+    font-weight: 300;
+  }
+  .left-wwww{
+    margin-top: 35px;
+  }
+  .left-wwww a{
+    color: #11809f;
+    font-size: 20px;
+  }
