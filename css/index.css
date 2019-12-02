@@ -266,76 +266,6 @@
   left: 508px;
 }
 
-.yousanjiao {
-  display: inline-block;
-  width: 0;
-  height: 0;
-  border-top: 21px solid transparent;
-  border-left: 32px solid #fff;
-  border-bottom: 23px solid transparent;
-  margin-left: 65px;
-  margin-top: 27px;
-}
-
-.main-b-three{
-  width: 1493px;
-  height: 1303px;
-  background-color: black;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .left-wwww a:hover {
   color: #ff6b00;
@@ -447,4 +377,31 @@
   /* margin: 0 0 64px; */
   text-align: center;
   line-height: 170px;
+}
+.yousanjiao {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-top: 21px solid transparent;
+  border-left: 32px solid #fff;
+  border-bottom: 23px solid transparent;
+  margin-left: 65px;
+  margin-top: 27px;
+}
+
+.main-b-three {
+  width: 1493px;
+  height: 1303px;
+  background-color: #333e48;
+}
+.m-b-th-picture{
+  width: 896.5px;
+  height: 1303px;
+  background-image: url("../img/arm-homepage-mobile-solution-728x1299.jpg");
+  background-position: 0px -148px;
+  /* position: relative;
+  top: 0;
+  left: 0; */
+  float: right;
+  background-size: cover;
 }
