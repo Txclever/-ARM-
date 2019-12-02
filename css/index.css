@@ -243,7 +243,7 @@
 
 .m-b-t-center {
   width: 100%;
-  height: 657px;
+  height: 658px;
   /* background-color: rgb(240, 39, 39); */
   /* background-image: url("../img/bc795e2188cc251c1136f1e1e2ff6d2c.webp");
   background-position: -511px -258px;
@@ -254,7 +254,7 @@
 
 .m-b-t-center img {
   width: 100%;
-  height: 657px;
+  height: 658px;
 }
 
 .m-b-t-bottom {
@@ -275,6 +275,12 @@
   border-bottom: 23px solid transparent;
   margin-left: 65px;
   margin-top: 27px;
+}
+
+.main-b-three{
+  width: 1493px;
+  height: 1303px;
+  background-color: black;
 }
 
 
