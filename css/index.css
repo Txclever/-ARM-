@@ -1073,3 +1073,44 @@
   margin-top: 13px;
   font-size: 12.8px;
 }
+
+.p-right{
+  width: 80px;
+  height: 260px;
+  position: fixed;
+  right: 0;
+  top: 35px;
+  background-color: #0f7c9b;
+  text-align: center;
+}
+.p-right img{
+  width: 25px;
+  height: 25px;
+}
+.p-right ul li{
+  width: 80px;
+  height: 60px;
+  /* background-color: red; */
+  /* margin-top: 10px; */
+  cursor: pointer;
+}
+.p-right ul li:hover{
+  background-color: #15a0c7;
+}
+.li-2{
+  margin-top: 10px;
+}
+.p-right ul li a{
+  color: #fff;
+  font-size: 1px;
+}
+/* .li-22 a img{
+  width: 20px;
+  height: 24px;
+} */
+.img-2{
+  margin-top: 10px;
+}
+.p-22{
+  margin-top: -5px;
+}
